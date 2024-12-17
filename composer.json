@@ -2,6 +2,7 @@
     "name": "mdh/playground-project",
     "version": "1.0.0",
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "description": "This project is an basic example to test the versioning tool",
     "type": "library",
     "license": "MIT",
